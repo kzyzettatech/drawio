@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-11-13T03:37:39.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="KqOtByaJCyTCIAXnYUYv" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-13T03:32:23.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="Qx1bu3Nvc6tYWWf1sm4o" version="22.0.3" type="device">
   <diagram name="Page-1" id="-6Pq1yRDnNDQQcAfZ5Zt">
     <mxGraphModel dx="1114" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="30" width="554.13" height="480" as="geometry" />
         </mxCell>
         <mxCell id="dOyG-SnuGp43uSNU4yqS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="530" width="300" height="200" as="geometry" />
+          <mxGeometry x="385" y="530" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dOyG-SnuGp43uSNU4yqS-3" value="Sub Total (Untax)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="410" y="540" width="110" height="30" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="dOyG-SnuGp43uSNU4yqS-8" value="3,333.33" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="580" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-14" value="Gross Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="dOyG-SnuGp43uSNU4yqS-14" value="Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="410" y="630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOyG-SnuGp43uSNU4yqS-15" value="70,000.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="26" y="410" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dOyG-SnuGp43uSNU4yqS-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="300" height="200" as="geometry" />
+          <mxGeometry x="70" y="530" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dOyG-SnuGp43uSNU4yqS-24" value="Sub Total (Untax)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="95" y="540" width="110" height="30" as="geometry" />
@@ -67,35 +67,11 @@
         <mxCell id="dOyG-SnuGp43uSNU4yqS-29" value="3,500.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="265" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-30" value="Gross Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="dOyG-SnuGp43uSNU4yqS-30" value="Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="95" y="630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOyG-SnuGp43uSNU4yqS-31" value="73,500.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="265" y="630" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-35" value="Service Charges (10%)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="410" y="660" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-36" value="7,000.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="580" y="660" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-39" value="Net Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="410" y="690" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-40" value="77,000.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="580" y="690" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-42" value="Service Charges (10%)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="95" y="660" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-43" value="7,350.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="265" y="660" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-44" value="Net Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="95" y="690" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dOyG-SnuGp43uSNU4yqS-45" value="80,850.00" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="265" y="690" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
